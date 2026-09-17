@@ -38,5 +38,10 @@ Using the chromatic dispersion factor equation, determine the dispersion of the 
 1550 nm and set the fiber dispersion parameter accordingly. 
 Using the equations above, determine the dispersion-limited fiber length. 
 <img width="1262" height="1044" alt="image" src="https://github.com/user-attachments/assets/e0b20ca6-42b4-4f1b-ac9a-e4f931a85001" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c8dcd9c4-e5de-40bd-90e3-b2dd2f271b5b" />
+
 # Tabulation
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/dbf9062d-6cde-4442-9d87-fb2739ce5ffc" />
+
 # Result
+Increasing the length beyond this limit causes severe pulse broadening due to chromatic dispersion, completely closing the eye diagram and failing the performance target.
